@@ -9,4 +9,4 @@ pandas read_csv()documentation
 pandas drop_duplicates()documentation
 Note: This project also uses the plotting libraries Seaborn and Plotly to help visualize the results of some steps. However, the tasks have been written in such a way that you should be able to complete them without any prior experience.
 
-Here is the link for the full project: https://projects.datacamp.com/projects/619
+Here is the link for the full project: https://learn.datacamp.com/projects/android-app-market/guided/Python
